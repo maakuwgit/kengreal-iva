@@ -1,0 +1,51 @@
+body {
+  background: white;
+}
+
+main {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1024px;
+  height: 768px;
+  overflow: hidden;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#logo {
+  position: absolute;
+  top: 668px;
+  height: 100px;
+  cursor: pointer;
+}
+
+.kengreal-logo {
+  left: 874px;
+  width: 150px;
+}
+
+.chiesi-logo {
+  left: 824px;
+  width: 200px;
+}
+
+main button {
+  position: absolute;
+  top: 728px;
+  height: 40px;
+  border:none;
+  background: transparent;
+  box-shadow: none;
+  -webkit-appearance: none;
+}
+
+#isi {
+  left: 175px;
+  width: 313px;
+}
+
+#pi {
+  width: 270px;
+  left: 533px;
+}

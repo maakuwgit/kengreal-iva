@@ -1,0 +1,76 @@
+body {
+	background-image: url(../img/background-branding.jpg);
+  height: 100%;
+}
+  body > div:nth-of-type(1) {
+    height: calc(100% - 7.75rem);
+  }
+
+main.columns {
+  width: 100%;
+  margin-top: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+  .isi-link b.grape,
+  .isi-link a {
+    color: #fbca00;
+  }
+
+main + aside {
+  position: absolute;
+  right: 0;
+  overflow: visible;
+  float: none;
+}
+
+main figcaption,
+aside h2,
+aside p,
+nav[data-timeline] a span {
+	color: white;
+}
+
+main figure img {
+  visibility: hidden;
+}
+
+main figcaption {
+	font-size: 1.5625rem;
+  font-weight: 700;
+  visibility: hidden;
+}
+	h2 sup {
+    vertical-align: 0.75rem;
+  }
+
+aside h2 {
+  margin-top: auto;
+}
+aside p, 
+aside li {
+	font-size: 0.9375rem;
+}
+
+[data-isi] {
+  left: -45.5625rem;
+  margin-top: 18rem;
+  max-width: calc(100vw - 5rem);
+}
+  [data-isi] .hide-for-aside {
+    display: inline;
+  }
+  [data-isi] li {
+  	color: #fbca00 !important;
+  }
+  [data-isi] h2 {
+    color: #fbca00;
+  }
+
+main figure div:nth-of-type(1) {
+  margin-left: 8.33333%;
+}
+
+nav[data-timeline] {
+    margin-top: 1.875rem;
+}

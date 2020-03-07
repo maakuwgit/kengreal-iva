@@ -1,0 +1,30 @@
+figure.background {
+	bottom: initial;
+  width: 86.5%;
+	height: calc(83% - 6.5rem);
+  margin-top: 27%;
+  margin-left: 2%;
+}
+main h2{
+	margin-bottom: 1.75rem;
+}
+
+h1 {
+	letter-spacing: -0.5px;
+	white-space: nowrap;
+}
+
+main > nav {
+	margin-top: 14.25rem;
+}
+
+	[data-tab] {
+		padding: 2.25rem 2rem 0;
+	}
+		[data-tab] :first-child {
+			margin-top: auto;
+		}
+
+		[data-tab] ul {
+	    padding-left: 1.125rem;
+	  }

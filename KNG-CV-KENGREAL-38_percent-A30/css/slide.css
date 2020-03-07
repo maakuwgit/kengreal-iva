@@ -1,0 +1,21 @@
+main figure {
+	margin-left:0;
+}
+	
+	#zooms.zoomed {
+    padding-top: 7rem;
+  }
+		main > nav button {
+		  min-width: 11rem;
+		}
+
+.disclaimers {
+	margin-top: 0.625rem;
+}
+	[data-zoom].zoomed .disclaimers {
+		font-size: 1rem;
+	}
+	
+[data-chart-nav] [class*="A30"] {
+	display: inline-block;
+}

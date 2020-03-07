@@ -1,0 +1,80 @@
+h1 {
+	margin-bottom: 8.625rem;
+}
+
+.row main > .row {
+	margin-left: -0.46875rem;
+	margin-right: -0.46875rem;
+}
+
+.panel {
+	height: 19rem;
+}
+	.panel:first-of-type dd {
+    max-width: 90%;
+  }
+		.panel:first-of-type dd ul {
+	  	padding-left: 1.875rem;
+	  }
+
+	.panel:last-of-type dd ul {
+  	padding-left: 2.875rem;
+  }
+
+  .panel dd p {
+    margin-top: 3.75rem;
+    text-align: center;
+    font-size: 1.125rem;
+  }
+
+	.panel dt, 
+	.panel dt:before {
+	  border-radius: 100rem;
+	}
+
+	.panel:last-of-type dt img {
+	  width: 5.875rem;
+    margin-top: 1.9375rem;
+  }
+
+	.panel:first-of-type dt img {
+    width: 3.875rem;
+    margin-top: 1.875rem;
+	}
+
+	.panel dt {
+		position: relative;
+		width: 8.375rem;
+		max-width: none;
+		height: 8.375rem;
+		margin-top: -4.1875rem;
+		font-size: 1.875rem;
+		font-weight: bold;
+		text-align: center;
+		text-transform: uppercase;
+	  background: rgb(255,205,0);
+		background: -webkit-linear-gradient(top,  rgba(255,205,0,1) 0%,rgba(255,172,0,1) 100%);
+		background: linear-gradient(to bottom,  rgba(255,205,0,1) 0%,rgba(255,172,0,1) 100%);
+	  box-shadow: 0 0.25rem 0.25rem rgba(0,0,0,0.3);
+	  z-index: 1;
+	}
+    .panel dt:after {
+    	content: '';
+	    position: absolute;
+	    top: 10rem;
+	    background: transparent url(../../shared/img/graphic-hr.jpg) center bottom no-repeat;
+	    background-size: 100%;
+	    width: 220px;
+	    height: 4px;
+	    left: 50%;
+	    margin-left: -110px;
+    }
+		.panel dt em {
+			font-size: 4.5rem;
+			color: white;
+		}
+
+	.panel li {
+		letter-spacing: -0.1px;
+    margin-bottom: 1rem;
+  }

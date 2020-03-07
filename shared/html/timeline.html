@@ -1,0 +1,49 @@
+<ul class="timeline"></ul>
+<script>
+
+	var menu 		= $('ul.timeline'),
+			markup 	= '',
+  		curr 		= $('body').attr('id'),
+  		grp 		= $('body').attr('data-group'),
+			arch, target, title;
+
+	for (i = 0; i < properties.detailInfo['slides'].length; i++) {
+		target  	= properties.detailInfo['slides'][i];
+		arch 			= target.arch;
+		title 		= ( target.use_title ? target.use_title : target.title );
+		is_key 		= target.is_key;
+		children 	= target.children;
+		alt 			= (target.is_alt ? 'primary' : '');
+		current 	= (arch == curr || arch == grp ? ' active' : '');
+		icon 			= target.icon;
+		slug 			= title.toLowerCase().replace(' ', '_');
+
+		if(icon){
+			icon = '<em class="ke_' + icon + '"></em>';
+		}else{
+			icon = '';
+		}
+
+		if(alt || current !== ''){
+			css = ' class="'+alt+current+'"';
+		}else{
+			css = '';
+		}
+
+		if(is_key) {
+			markup += '<li'+css+' data-rel="'+arch+'">';
+			markup += '	<a href="#'+slug+'" data-href="'+arch+'">'+icon+'<span class="block">'+title+'</span></a>';
+			if(children) {
+				markup += '<ul>';
+				for (c = 0; c < children.length; c++) {
+					var c_arch = children[c];
+					markup += '<li class="'+(curr == c_arch ? 'active ' : '')+c_arch+'">&bull;</li>';
+				}
+				markup += '</ul>';
+			}
+			markup += '</li>';
+		}
+	}
+
+	menu.append(markup);
+</script>

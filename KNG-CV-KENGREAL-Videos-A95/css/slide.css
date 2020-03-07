@@ -1,0 +1,63 @@
+main figcaption p:nth-of-type(1) {
+  margin-top: 1rem;
+}
+
+[data-video] > a {
+  background-size: cover;
+  background-position: center;
+}
+
+  [data-video] > a img {
+    width: 100%;
+  }
+
+[data-video] img {
+  opacity: 0;
+}
+
+[data-video] video {
+  width: 100%;
+  height: auto;
+}
+
+[data-video] > a, 
+[data-video] video {
+  display: block;
+  z-index: 1;
+  position: relative;
+}
+  [data-video] > a:after {
+    content: "\e908";
+    position: absolute;
+    left: calc(50% - 3.125rem);
+    top: calc(50% - 3.125rem);
+    font-family: 'KengrealIcons';
+    font-size: 6.25rem;
+    color: white;
+  }
+
+[data-video] > a + video {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  max-height: none;
+  max-width: none;
+  z-index: 10;
+  padding: 2rem 1.25rem 2rem 1.5rem;
+  background: black;
+}
+
+video::-webkit-media-controls-toggle-closed-captions-button,
+video::-webkit-media-controls-volume-slider,
+video::-webkit-media-controls-fullscreen-button {
+  display: none;
+}
+[data-controls] {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 999;
+}

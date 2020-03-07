@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1388.7 1106.2" enable-background="new 0 0 1388.7 1106.2" xml:space="preserve">
+<font horiz-adv-x="2048">
+<!-- Arial is a trademark of The Monotype Corporation in the United States and/or other countries. -->
+<!-- Copyright: Copyright 2017 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="ArialMT" units-per-em="2048" underline-position="-217" underline-thickness="150"/>
+<missing-glyph horiz-adv-x="1536" d="M256,0l0,1280l1024,0l0,-1280M288,32l960,0l0,1216l-960,0z"/>
+<glyph unicode="&lt;" horiz-adv-x="1196" d="M112,641l0,168l971,410l0,-179l-770,-316l770,-319l0,-179z"/>
+<glyph unicode="&#x2265;" horiz-adv-x="1124" d="M1048,762l-971,-415l0,179l769,319l-769,315l0,180l971,-410M1046,106l-968,0l0,167l968,0z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Copyright (c) 2008 by Jos Buivenga. All rights reserved. -->
+<!-- Copyright: Copyright 2017 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="MuseoSans-300" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="510" d="M5,0l500,0l0,700l-500,0M255,395l-170,255l340,0M285,350l170,255l0,-510M55,95l0,510l170,-255M85,50l170,255l170,-255z"/>
+<glyph unicode="A" horiz-adv-x="616" d="M530,0l73,0l-258,703l-74,0l-258,-703l73,0l80,224l283,0M309,630C309,630 324,572 336,539l92,-255l-242,0l94,255C292,572 307,630 307,630z"/>
+<glyph unicode="C" horiz-adv-x="728" d="M55,356C55,151 203,-12 411,-12C584,-12 680,97 680,97l-40,49C640,146 554,52 412,52C245,52 127,189 127,357C127,523 245,651 410,651C542,651 624,573 624,573l37,51C661,624 576,715 408,715C207,715 55,560 55,356z"/>
+<glyph unicode="E" horiz-adv-x="571" d="M102,0l414,0l0,62l-345,0l0,261l267,0l0,62l-267,0l0,256l327,0l0,62l-396,0z"/>
+<glyph unicode="F" horiz-adv-x="514" d="M102,0l69,0l0,315l258,0l0,62l-258,0l0,264l301,0l0,62l-370,0z"/>
+<glyph unicode="I" horiz-adv-x="273" d="M102,0l69,0l0,703l-69,0z"/>
+<glyph unicode="M" horiz-adv-x="854" d="M80,0l69,0l39,492C191,530 190,592 190,592l2,0C192,592 214,527 230,492l165,-361l65,0l165,361C641,528 662,590 662,590l2,0C664,590 663,530 666,492l39,-492l69,0l-56,703l-71,0l-184,-413C447,254 428,204 428,204l-2,0C426,204 408,254 392,290l-184,413l-72,0z"/>
+<glyph unicode="N" horiz-adv-x="753" d="M102,0l69,0l0,506C171,543 165,601 165,601l2,0C167,601 201,541 225,506l359,-506l67,0l0,703l-69,0l0,-506C582,160 588,102 588,102l-2,0C586,102 552,162 528,197l-359,506l-67,0z"/>
+<glyph unicode="S" horiz-adv-x="538" d="M50,78C50,78 129,-12 273,-12C405,-12 486,73 486,178C486,409 135,361 135,528C135,590 193,649 283,649C375,649 437,589 437,589l34,58C471,647 405,715 283,715C153,715 64,627 64,526C64,308 415,353 415,176C415,100 352,54 275,54C164,54 91,131 91,131z"/>
+<glyph unicode="T" horiz-adv-x="588" d="M260,0l69,0l0,641l252,0l0,62l-574,0l0,-62l253,0z"/>
+<glyph unicode="U" horiz-adv-x="724" d="M93,245C93,89 203,-12 363,-12C522,-12 631,89 631,245l0,458l-69,0l0,-455C562,125 483,52 362,52C241,52 163,125 163,246l0,457l-70,0z"/>
+<glyph unicode="W" horiz-adv-x="927" d="M463,600C463,600 474,540 486,495l134,-495l83,0l187,703l-72,0l-141,-546C668,121 661,82 661,82l-2,0C658,82 653,121 643,157l-148,546l-66,0l-148,-546C271,121 266,82 265,82l-2,0C263,82 256,121 247,157l-136,546l-72,0l182,-703l83,0l134,495C450,540 461,600 461,600z"/>
+<glyph unicode="Y" horiz-adv-x="574" d="M252,0l70,0l0,302l236,401l-78,0l-149,-255C309,411 288,364 288,364l-2,0C286,364 264,412 243,448l-149,255l-79,0l237,-401z"/>
+<glyph unicode="a" horiz-adv-x="520" d="M41,137C41,37 128,-12 212,-12C338,-12 380,97 380,97l2,0C382,97 380,80 380,55l0,-55l65,0l0,322C445,448 378,515 257,515C144,515 78,458 78,458l32,-52C110,406 169,454 252,454C324,454 377,421 377,324l0,-13l-28,0C262,311 41,307 41,137M111,141C111,252 269,255 348,255l29,0l0,-22C377,146 319,46 223,46C148,46 111,94 111,141z"/>
+<glyph unicode="b" horiz-adv-x="589" d="M82,0l66,0l0,45C148,69 146,86 146,86l2,0C148,86 193,-12 313,-12C445,-12 540,92 540,251C540,407 456,515 321,515C192,515 150,418 150,418l-2,0C148,418 150,436 150,459l0,244l-68,0M148,250C148,393 227,453 311,453C405,453 470,374 470,251C470,123 397,48 308,48C200,48 148,149 148,250z"/>
+<glyph unicode="," horiz-adv-x="244" d="M36,-97l58,0l74,179l-75,0z"/>
+<glyph unicode="e" horiz-adv-x="553" d="M47,251C47,96 160,-12 310,-12C423,-12 496,58 496,58l-31,52C465,110 404,49 312,49C208,49 120,119 117,248l386,0C503,248 505,271 505,283C505,408 434,515 295,515C159,515 47,416 47,251M120,304C136,405 209,458 293,458C368,458 432,409 436,304z"/>
+<glyph unicode="8" horiz-adv-x="602" d="M64,202C64,69 175,-12 302,-12C438,-12 535,81 535,191C535,264 491,309 433,342C441,350 519,432 519,532C519,642 435,715 304,715C162,715 92,628 92,537C92,470 129,427 179,394C163,384 64,315 64,202M464,192C464,109 385,52 302,52C217,52 135,110 135,205C135,295 214,351 236,364C340,314 464,283 464,192M162,536C162,599 214,651 304,651C389,651 449,604 449,529C449,445 389,382 376,370C275,414 162,445 162,536z"/>
+<glyph unicode="5" horiz-adv-x="558" d="M54,88C54,88 120,-12 260,-12C397,-12 504,89 504,219C504,346 403,448 262,448C199,448 155,421 155,421l-2,0C153,421 157,436 160,461l20,180l280,0l0,62l-340,0l-38,-341l44,-16C126,346 179,384 254,384C354,384 432,315 432,219C432,123 354,54 257,54C150,54 98,136 98,136z"/>
+<glyph unicode="4" horiz-adv-x="597" d="M34,195l352,0l0,-195l69,0l0,195l100,0l0,61l-100,0l0,447l-75,0l-346,-463M118,256l0,2l234,305C371,588 387,616 387,616l2,0C389,616 386,580 386,550l0,-294z"/>
+<glyph unicode="g" horiz-adv-x="582" d="M120,-114l-26,-56C143,-195 201,-210 259,-210C382,-210 500,-148 500,12l0,491l-66,0l0,-55C434,437 435,431 435,431l-2,0C433,431 400,515 267,515C132,515 49,412 49,261C49,110 138,3 273,3C351,3 402,35 432,91l2,0C434,91 432,74 432,55l0,-46C432,-103 354,-149 256,-149C182,-149 120,-114 120,-114M284,64C184,64 119,142 119,262C119,382 176,453 274,453C363,453 433,408 433,261C433,113 363,64 284,64z"/>
+<glyph unicode="h" horiz-adv-x="593" d="M82,0l68,0l0,241C150,265 152,288 158,308C181,392 255,451 341,451C438,451 450,381 450,302l0,-302l68,0l0,320C518,444 474,515 350,515C236,515 169,438 150,390l-2,0C148,390 150,408 150,431l0,272l-68,0z"/>
+<glyph unicode="-" horiz-adv-x="492" d="M104,253l284,0l0,62l-284,0z"/>
+<glyph unicode="i" horiz-adv-x="232" d="M80,618l71,0l0,85l-71,0M82,0l68,0l0,503l-68,0z"/>
+<glyph unicode="k" horiz-adv-x="502" d="M82,0l68,0l0,252l81,0l168,-252l81,0l-192,282l0,2l175,219l-82,0l-151,-192l-80,0l0,392l-68,0z"/>
+<glyph unicode="l" horiz-adv-x="247" d="M77,119C77,9 151,-4 193,-4C206,-4 218,-2 218,-2l0,61C218,59 210,58 201,58C175,58 145,68 145,134l0,569l-68,0z"/>
+<glyph unicode="m" horiz-adv-x="916" d="M82,0l68,0l0,238C150,261 152,284 157,305C178,382 240,453 322,453C417,453 428,379 428,303l0,-303l68,0l0,238C496,265 498,289 505,311C524,385 587,453 664,453C756,453 773,385 773,303l0,-303l68,0l0,320C841,444 796,515 674,515C589,515 516,457 489,389l-2,0C472,472 424,515 331,515C253,515 173,456 149,388l-2,0C147,388 149,406 149,428l0,75l-67,0z"/>
+<glyph unicode="n" horiz-adv-x="593" d="M82,0l68,0l0,241C150,265 152,288 158,309C181,392 255,451 341,451C438,451 450,381 450,302l0,-302l68,0l0,320C518,444 474,515 350,515C231,515 167,434 149,388l-2,0C147,388 149,406 149,428l0,75l-67,0z"/>
+<glyph unicode="9" horiz-adv-x="594" d="M220,-12C438,-12 529,209 529,385C529,575 428,715 275,715C152,715 55,626 55,480C55,347 145,253 273,253C346,253 417,285 452,335l2,0C441,198 367,53 219,53C161,53 117,78 117,78l-26,-61C91,17 143,-12 220,-12M284,315C188,315 125,381 125,481C125,578 181,650 276,650C381,650 454,529 454,435C454,378 379,315 284,315z"/>
+<glyph unicode="o" horiz-adv-x="622" d="M45,254C45,102 164,-12 311,-12C458,-12 577,102 577,254C577,403 458,515 311,515C164,515 45,403 45,254M115,254C115,368 203,453 311,453C419,453 507,368 507,254C507,137 419,49 311,49C203,49 115,137 115,254z"/>
+<glyph unicode="1" horiz-adv-x="466" d="M56,0l381,0l0,62l-155,0l0,641l-64,0l-159,-158l44,-45l75,75C206,602 213,617 213,617l2,0C215,617 214,598 214,578l0,-516l-158,0z"/>
+<glyph unicode="p" horiz-adv-x="589" d="M82,-200l68,0l0,240C150,66 148,84 148,84l2,0C150,84 194,-12 315,-12C445,-12 540,92 540,251C540,407 456,515 321,515C188,515 147,415 147,415l-2,0C145,415 147,432 147,454l0,49l-65,0M148,250C148,393 227,453 311,453C405,453 470,374 470,251C470,123 397,48 308,48C204,48 148,149 148,250z"/>
+<glyph unicode="(" horiz-adv-x="290" d="M193,-95l63,0C181,40 143,187 143,337C143,477 184,608 256,730l-63,0C121,613 80,481 80,337C80,179 123,25 193,-95z"/>
+<glyph unicode=")" horiz-adv-x="289" d="M97,-95C167,25 210,179 210,337C210,481 169,613 97,730l-63,0C106,608 147,477 147,337C147,187 110,40 34,-95z"/>
+<glyph unicode="%" horiz-adv-x="730" d="M196,437C274,437 337,499 337,576C337,652 274,715 196,715C118,715 56,652 56,576C56,499 118,437 196,437M62,0l72,0l535,703l-71,0M196,493C150,493 115,530 115,576C115,621 150,659 196,659C242,659 278,621 278,576C278,530 242,493 196,493M394,126C394,50 456,-12 534,-12C612,-12 675,50 675,126C675,203 612,266 534,266C456,266 394,203 394,126M454,127C454,172 488,210 534,210C580,210 616,172 616,127C616,81 580,44 534,44C488,44 454,81 454,127z"/>
+<glyph unicode="." horiz-adv-x="247" d="M84,0l79,0l0,80l-79,0z"/>
+<glyph unicode="r" horiz-adv-x="356" d="M82,0l68,0l0,212C150,244 154,278 164,310C186,384 239,440 310,440C323,440 335,438 335,438l0,67C335,505 322,508 308,508C229,508 173,450 149,374l-2,0C147,374 149,392 149,414l0,89l-67,0z"/>
+<glyph unicode="s" horiz-adv-x="443" d="M41,61C41,61 105,-12 227,-12C328,-12 399,47 399,129C399,295 128,265 128,376C128,432 177,454 228,454C311,454 354,408 354,408l31,52C385,460 336,515 230,515C139,515 58,466 58,376C58,212 329,239 329,129C329,76 282,49 228,49C134,49 78,110 78,110z"/>
+<glyph unicode="7" horiz-adv-x="520" d="M97,0l72,0l326,655l0,48l-457,0l0,-62l329,0C402,641 420,643 420,643l0,-2C420,641 400,614 381,576z"/>
+<glyph unicode="6" horiz-adv-x="595" d="M319,-12C442,-12 540,77 540,223C540,356 449,450 321,450C248,450 177,418 143,368l-2,0C153,505 228,650 375,650C433,650 477,625 477,625l26,61C503,686 452,715 374,715C157,715 65,494 65,318C65,128 166,-12 319,-12M318,53C213,53 140,174 140,268C140,325 216,388 310,388C406,388 469,322 469,222C469,125 413,53 318,53z"/>
+<glyph unicode="/" horiz-adv-x="392" d="M41,-42l64,0l253,784l-63,0z"/>
+<glyph unicode=" " horiz-adv-x="269"/>
+<glyph unicode="t" horiz-adv-x="335" d="M101,183C101,15 218,-4 276,-4C294,-4 305,-2 305,-2l0,61C305,59 296,57 282,57C244,57 169,72 169,190l0,250l126,0l0,57l-126,0l0,145l-67,0l0,-145l-67,0l0,-57l66,0z"/>
+<glyph unicode="3" horiz-adv-x="562" d="M45,84C45,84 130,-12 268,-12C401,-12 499,88 499,208C499,360 368,410 279,415l210,242l0,46l-411,0l0,-62l264,0C379,641 399,644 399,644l0,-2C399,642 381,625 362,603l-176,-206l17,-41l48,0C343,356 428,305 428,206C428,116 351,54 267,54C159,54 87,137 87,137z"/>
+<glyph unicode="2" horiz-adv-x="565" d="M64,0l439,0l0,62l-367,0C137,249 492,282 492,518C492,628 412,715 278,715C129,715 65,588 65,588l52,-35C117,553 171,649 274,649C362,649 420,591 420,514C420,324 60,292 60,45C60,31 61,16 64,0z"/>
+<glyph unicode="u" horiz-adv-x="588" d="M75,183C75,52 125,-12 243,-12C354,-12 420,66 440,115l2,0C442,115 440,97 440,75l0,-75l66,0l0,503l-68,0l0,-241C438,153 367,52 252,52C155,52 143,122 143,201l0,302l-68,0z"/>
+<glyph unicode="w" horiz-adv-x="801" d="M187,0l74,0l123,358C392,383 399,412 399,412l2,0C401,412 408,383 417,358l123,-358l74,0l170,503l-72,0l-122,-375C582,103 575,74 575,74l-2,0C573,74 566,104 558,128l-124,373l-67,0l-124,-373C235,104 228,74 228,74l-2,0C226,74 219,104 211,128l-122,375l-72,0z"/>
+<glyph unicode="0" horiz-adv-x="625" d="M313,-12C496,-12 555,148 555,352C555,554 496,715 313,715C130,715 70,554 70,352C70,148 130,-12 313,-12M313,53C179,53 142,184 142,352C142,519 179,650 313,650C446,650 483,519 483,352C483,184 446,53 313,53z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Copyright (c) 2008 by Jos Buivenga. All rights reserved. -->
+<!-- Copyright: Copyright 2017 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="MuseoSans-700" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="510" d="M5,0l500,0l0,700l-500,0M255,395l-170,255l340,0M285,350l170,255l0,-510M55,95l0,510l170,-255M85,50l170,255l170,-255z"/>
+<glyph unicode="A" horiz-adv-x="637" d="M503,0l133,0l-250,710l-135,0l-250,-710l133,0l60,182l249,0M320,587C320,587 335,517 348,477l63,-190l-186,0l63,190C302,517 318,587 318,587z"/>
+<glyph unicode="C" horiz-adv-x="716" d="M41,358C41,149 191,-12 408,-12C589,-12 687,103 687,103l-68,93C619,196 536,106 413,106C265,106 174,225 174,360C174,492 262,604 412,604C525,604 606,529 606,529l62,96C668,625 579,722 406,722C197,722 41,564 41,358z"/>
+<glyph unicode="D" horiz-adv-x="739" d="M90,0l242,0C551,0 694,132 694,356C694,580 551,710 332,710l-242,0M219,111l0,488l106,0C467,599 561,514 561,356C561,196 469,111 325,111z"/>
+<glyph unicode="E" horiz-adv-x="575" d="M90,0l441,0l0,111l-312,0l0,191l239,0l0,111l-239,0l0,186l296,0l0,111l-425,0z"/>
+<glyph unicode="G" horiz-adv-x="760" d="M42,356C42,133 203,-12 390,-12C522,-12 596,64 596,64l2,0C598,64 597,49 597,34l0,-34l110,0l0,374l-225,0l0,-111l109,0l0,-83C591,180 520,106 413,106C280,106 175,206 175,360C175,494 260,604 419,604C532,604 608,536 608,536l64,96C672,632 582,722 408,722C197,722 42,562 42,356z"/>
+<glyph unicode="I" horiz-adv-x="309" d="M90,0l129,0l0,710l-129,0z"/>
+<glyph unicode="K" horiz-adv-x="647" d="M90,0l129,0l0,310l92,0l174,-310l145,0l-213,370l0,2l201,338l-140,0l-167,-289l-92,0l0,289l-129,0z"/>
+<glyph unicode="L" horiz-adv-x="539" d="M90,0l436,0l0,111l-307,0l0,599l-129,0z"/>
+<glyph unicode="N" horiz-adv-x="760" d="M90,0l129,0l0,409C219,451 212,519 212,519l2,0C214,519 246,450 273,409l269,-409l128,0l0,710l-128,0l0,-410C542,258 549,190 549,190l-2,0C547,190 515,259 488,300l-269,410l-129,0z"/>
+<glyph unicode="O" horiz-adv-x="816" d="M41,360C41,151 199,-12 408,-12C617,-12 775,151 775,360C775,563 617,722 408,722C199,722 41,563 41,360M174,360C174,500 278,604 408,604C538,604 642,500 642,360C642,214 538,106 408,106C278,106 174,214 174,360z"/>
+<glyph unicode="P" horiz-adv-x="614" d="M90,0l129,0l0,245l145,0C497,245 590,341 590,479C590,617 497,710 364,710l-274,0M219,357l0,242l123,0C415,599 459,552 459,479C459,405 415,357 340,357z"/>
+<glyph unicode="R" horiz-adv-x="658" d="M90,0l129,0l0,265l124,0l141,-265l144,0l-146,265C468,290 458,300 458,300l0,2C533,332 578,411 578,496C578,590 533,658 462,690C431,704 396,710 319,710l-229,0M219,377l0,222l98,0C418,599 447,557 447,489C447,418 404,377 335,377z"/>
+<glyph unicode="S" horiz-adv-x="554" d="M36,85C36,85 123,-12 281,-12C429,-12 515,83 515,196C515,423 181,392 181,518C181,568 228,603 288,603C377,603 445,541 445,541l56,105C501,646 429,722 289,722C153,722 51,634 51,516C51,298 386,320 386,193C386,135 337,107 283,107C183,107 106,182 106,182z"/>
+<glyph unicode="T" horiz-adv-x="603" d="M237,0l129,0l0,599l233,0l0,111l-595,0l0,-111l233,0z"/>
+<glyph unicode="W" horiz-adv-x="966" d="M538,710l-112,0l-128,-491C287,178 286,144 285,144l-2,0C283,144 280,179 271,219l-112,491l-133,0l178,-710l149,0l109,420C474,466 480,513 480,513l2,0C482,513 488,466 500,420l109,-420l149,0l183,710l-133,0l-117,-491C682,179 679,144 679,144l-2,0C676,144 675,178 664,219z"/>
+<glyph unicode="a" horiz-adv-x="534" d="M27,147C27,45 109,-12 200,-12C316,-12 356,78 355,78l2,0C357,78 355,62 355,42l0,-42l117,0l0,319C472,448 394,522 260,522C139,522 60,459 60,459l48,-91C108,368 175,417 248,417C304,417 346,394 346,327l0,-7l-17,0C246,320 27,309 27,147M155,153C155,224 260,233 325,233l22,0l0,-12C347,159 299,87 232,87C180,87 155,119 155,153z"/>
+<glyph unicode="b" horiz-adv-x="611" d="M70,0l120,0l0,29C190,49 188,64 188,64l2,0C190,64 236,-12 342,-12C477,-12 576,93 576,255C576,413 488,522 350,522C242,522 197,448 197,448l-2,0C195,448 197,466 197,491l0,219l-127,0M193,252C193,365 255,413 321,413C396,413 448,350 448,253C448,152 390,95 320,95C235,95 193,173 193,252z"/>
+<glyph unicode="c" horiz-adv-x="545" d="M33,255C33,107 141,-12 310,-12C447,-12 520,71 520,71l-49,90C471,161 407,96 321,96C224,96 162,170 162,256C162,343 223,414 317,414C397,414 450,359 450,359l56,87C506,446 443,522 310,522C141,522 33,400 33,255z"/>
+<glyph unicode="," horiz-adv-x="265" d="M17,-105l96,0l96,234l-125,0z"/>
+<glyph unicode="d" horiz-adv-x="611" d="M35,255C35,97 123,-12 261,-12C378,-12 421,75 421,75l2,0C423,75 421,61 421,42l0,-42l120,0l0,710l-127,0l0,-224C414,470 415,457 415,457l-2,0C413,457 378,522 266,522C131,522 35,417 35,255M163,255C163,356 221,413 291,413C376,413 418,335 418,256C418,143 356,95 290,95C215,95 163,158 163,255z"/>
+<glyph unicode="e" horiz-adv-x="554" d="M34,255C34,110 139,-12 308,-12C435,-12 513,61 513,61l-49,91C464,152 399,96 317,96C241,96 172,142 164,231l352,0C516,231 519,265 519,280C519,415 440,522 293,522C141,522 34,412 34,255M168,318C180,384 225,424 290,424C346,424 389,387 391,318z"/>
+<glyph unicode="8" horiz-adv-x="611" d="M51,206C51,84 151,-12 305,-12C464,-12 555,90 555,199C555,272 516,317 464,350C471,358 543,437 543,525C543,648 445,722 313,722C157,722 85,626 85,528C85,465 115,422 158,389C136,374 51,307 51,206M424,205C424,142 371,102 305,102C240,102 183,149 183,216C183,275 226,317 249,336C335,295 424,267 424,205M212,525C212,571 246,607 311,607C375,607 417,572 417,517C417,455 379,408 369,397C288,432 212,460 212,525z"/>
+<glyph unicode="5" horiz-adv-x="569" d="M43,84C43,84 120,-12 270,-12C418,-12 526,92 526,232C526,360 433,465 276,465C233,465 200,449 200,449l-2,0C198,449 201,463 203,482l11,117l262,0l0,111l-373,0l-33,-360l71,-26C141,324 188,354 251,354C332,354 394,305 394,231C394,156 329,110 260,110C168,110 109,181 109,181z"/>
+<glyph unicode="4" horiz-adv-x="621" d="M28,183l332,0l0,-183l127,0l0,183l92,0l0,107l-92,0l0,420l-153,0l-306,-448M164,290l0,2l164,227C347,546 363,584 363,584l2,0C365,584 360,545 360,510l0,-220z"/>
+<glyph unicode="g" horiz-adv-x="604" d="M122,-69l-38,-97C133,-192 201,-210 265,-210C398,-210 534,-144 534,31l0,479l-119,0l0,-39C415,463 416,457 416,457l-3,0C413,457 373,522 262,522C115,522 36,408 36,268C36,128 119,10 265,10C333,10 377,34 407,79l2,0C409,79 407,64 407,52l0,-30C407,-69 341,-102 263,-102C186,-102 122,-69 122,-69M292,117C210,117 164,183 164,272C164,358 207,414 284,414C353,414 410,383 410,267C410,152 353,117 292,117z"/>
+<glyph unicode="h" horiz-adv-x="613" d="M70,0l127,0l0,234C197,258 199,280 205,300C224,362 276,406 343,406C408,406 424,364 424,302l0,-302l126,0l0,328C550,463 486,522 373,522C284,522 222,470 197,421l-2,0C195,421 197,439 197,464l0,246l-127,0z"/>
+<glyph unicode="i" horiz-adv-x="267" d="M70,597l126,0l0,113l-126,0M70,0l127,0l0,510l-127,0z"/>
+<glyph unicode="k" horiz-adv-x="552" d="M70,0l127,0l0,223l66,0l135,-223l146,0l-181,280l0,2l161,228l-141,0l-123,-180l-63,0l0,380l-127,0z"/>
+<glyph unicode="l" horiz-adv-x="284" d="M63,159C63,13 150,-5 220,-5C241,-5 260,-2 260,-2l0,111C260,109 251,108 241,108C208,108 189,122 189,178l0,532l-126,0z"/>
+<glyph unicode="n" horiz-adv-x="613" d="M70,0l127,0l0,234C197,258 199,281 206,302C225,363 275,406 343,406C408,406 424,364 424,302l0,-302l126,0l0,328C550,463 486,522 373,522C270,522 214,459 192,416l-2,0C190,416 192,432 192,451l0,59l-122,0z"/>
+<glyph unicode="9" horiz-adv-x="604" d="M224,-12C444,-12 551,199 551,385C551,599 425,722 277,722C136,722 43,615 43,484C43,356 130,246 270,246C321,246 379,267 404,296l2,0C388,199 328,106 216,106C162,106 117,129 117,129l-38,-111C79,18 134,-12 224,-12M301,352C215,352 170,412 170,484C170,551 211,603 277,603C351,603 417,518 417,429C417,386 365,352 301,352z"/>
+<glyph unicode="o" horiz-adv-x="625" d="M32,255C32,98 157,-12 313,-12C468,-12 593,98 593,255C593,411 468,522 312,522C157,522 32,411 32,255M161,255C161,349 230,414 313,414C395,414 464,349 464,255C464,160 395,96 313,96C230,96 161,160 161,255z"/>
+<glyph unicode="1" horiz-adv-x="512" d="M54,0l434,0l0,111l-154,0l0,599l-113,0l-178,-171l76,-80l57,54C199,536 207,553 207,553l2,0C209,553 208,529 208,505l0,-394l-154,0z"/>
+<glyph unicode="p" horiz-adv-x="611" d="M70,-200l127,0l0,214C197,40 195,58 195,58l2,0C197,58 242,-12 343,-12C477,-12 576,93 576,255C576,413 488,522 350,522C230,522 186,438 186,438l-2,0C184,438 186,454 186,473l0,37l-116,0M193,252C193,365 255,413 321,413C396,413 448,350 448,253C448,152 390,95 320,95C236,95 193,173 193,252z"/>
+<glyph unicode="(" horiz-adv-x="310" d="M184,-95l107,0C216,43 178,193 178,342C178,483 218,618 291,741l-107,0C108,621 65,487 65,343C65,179 110,26 184,-95z"/>
+<glyph unicode=")" horiz-adv-x="310" d="M126,-95C200,26 245,179 245,343C245,487 202,621 126,741l-107,0C92,618 132,483 132,342C132,193 93,43 19,-95z"/>
+<glyph unicode="%" horiz-adv-x="792" d="M201,406C291,406 365,476 365,564C365,650 291,722 201,722C111,722 38,650 38,564C38,476 111,406 201,406M63,0l117,0l545,710l-117,0M201,498C164,498 135,527 135,564C135,600 164,630 201,630C238,630 268,600 268,564C268,527 238,498 201,498M426,145C426,58 498,-12 589,-12C679,-12 752,58 752,145C752,231 679,303 589,303C498,303 426,231 426,145M523,146C523,182 552,212 589,212C626,212 656,182 656,146C656,109 626,80 589,80C552,80 523,109 523,146z"/>
+<glyph unicode="." horiz-adv-x="257" d="M65,0l127,0l0,127l-127,0z"/>
+<glyph unicode="r" horiz-adv-x="393" d="M70,0l127,0l0,202C197,232 200,260 208,285C232,361 293,392 347,392C364,392 377,390 377,390l0,125C377,515 366,517 354,517C276,517 215,459 192,386l-2,0C190,386 192,403 192,422l0,88l-122,0z"/>
+<glyph unicode="s" horiz-adv-x="452" d="M27,63C27,63 98,-12 225,-12C346,-12 420,56 420,141C420,305 172,296 172,368C172,400 204,414 237,414C315,414 362,370 362,370l47,94C409,464 353,522 238,522C128,522 43,467 43,372C43,208 291,218 291,142C291,112 260,96 224,96C141,96 85,152 85,152z"/>
+<glyph unicode="6" horiz-adv-x="604" d="M327,-12C468,-12 561,94 561,226C561,354 473,463 333,463C282,463 225,442 200,413l-2,0C216,510 275,603 387,603C442,603 487,581 487,581l38,111C525,692 470,722 380,722C160,722 53,511 53,325C53,111 179,-12 327,-12M327,106C252,106 187,191 187,280C187,324 239,357 303,357C388,357 433,298 433,226C433,159 393,106 327,106z"/>
+<glyph unicode="/" horiz-adv-x="410" d="M27,-42l108,0l255,788l-109,0z"/>
+<glyph unicode=" " horiz-adv-x="243"/>
+<glyph unicode="t" horiz-adv-x="377" d="M92,187C92,16 233,-5 304,-5C328,-5 343,-2 343,-2l0,111C343,109 334,107 320,107C285,107 219,119 219,203l0,198l116,0l0,101l-116,0l0,147l-124,0l0,-147l-69,0l0,-101l66,0z"/>
+<glyph unicode="3" horiz-adv-x="574" d="M35,83C35,83 119,-12 270,-12C428,-12 520,100 520,221C520,344 424,414 326,428l174,201l0,81l-434,0l0,-111l212,0C320,599 341,602 341,602l0,-2C341,600 318,579 290,546l-130,-154l29,-66l49,0C321,326 390,291 390,216C390,155 336,110 262,110C168,110 101,182 101,182z"/>
+<glyph unicode="y" horiz-adv-x="521" d="M1,-177C1,-177 46,-210 107,-210C184,-210 255,-170 291,-77l228,587l-139,0l-100,-296C271,187 263,147 263,147l-2,0C261,147 252,189 242,216l-107,294l-143,0l215,-502l-19,-45C169,-82 135,-103 100,-103C71,-103 43,-82 43,-82z"/>
+<glyph unicode="0" horiz-adv-x="629" d="M314,-12C508,-12 572,152 572,356C572,560 508,722 314,722C120,722 57,560 57,356C57,152 120,-12 314,-12M314,106C217,106 189,216 189,356C189,494 217,603 314,603C411,603 439,494 439,356C439,216 411,106 314,106z"/>
+</font>
+
+	<g id="Rectangle_14_xA0_Image_1_">
+	
+		<image overflow="visible" width="302" height="4" id="Rectangle_14_xA0_Image" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAS4AAAAECAYAAAAwANKnAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJVJREFUeNrslFEOgCAMQ9k4jvc/
+HkM0EBEEB8EPk76kGasLH6uBvPdbkBmRiFy9hN5L5adzXt+8Vv/mr5JzbsnMyNyMnvZQeWc2otr7
+WeN8K8cqd6WIaEjM3D+HyoV31Px88+J86svvPW+VrLXL5rR3zaq1B+rsUJNFmSPTkc1z7qr/xAAA
+wM/AwwUAwMMFAABfswswAJM+yDzy+SNmAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 935.6938 49.3369)">
+	</image>
+</g>
+<g id="Shape_2_1_" enable-background="new    ">
+	<g id="Shape_2">
+		<g>
+			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6FBF4A" points="789.7,1039 463.2,1039 471.7,1031.3 469.8,1029.3 
+				457.7,1040.3 469.8,1051.3 471.7,1049.4 463.2,1041.7 789.7,1041.7 			"/>
+		</g>
+	</g>
+</g>
+<g id="Shape_2_copy_1_" enable-background="new    ">
+	<g id="Shape_2_copy">
+		<g>
+			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#404040" points="1143.6,1029.3 1141.7,1031.3 1150.2,1039 823.7,1039 
+				823.7,1041.7 1150.2,1041.7 1141.7,1049.4 1143.6,1051.3 1155.7,1040.3 			"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_1_" enable-background="new    ">
+	<g id="Rectangle_18">
+		<g>
+			<rect x="872.7" y="142.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_13_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy_13">
+		<g>
+			<rect x="872.7" y="58.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="71"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy">
+		<g>
+			<rect x="872.7" y="206.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_2_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy_2">
+		<g>
+			<rect x="872.7" y="271.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_3_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy_3">
+		<g>
+			<rect x="872.7" y="335.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_4_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy_4">
+		<g>
+			<rect x="872.7" y="399.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_5_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy_5">
+		<g>
+			<rect x="872.7" y="464.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_6_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy_6">
+		<g>
+			<rect x="872.7" y="528.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_7_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy_7">
+		<g>
+			<rect x="872.7" y="592.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_8_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy_8">
+		<g>
+			<rect x="872.7" y="657.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_9_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy_9">
+		<g>
+			<rect x="872.7" y="721.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_10_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy_10">
+		<g>
+			<rect x="872.7" y="785.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_11_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy_11">
+		<g>
+			<rect x="872.7" y="850.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_18_copy_12_1_" enable-background="new    ">
+	<g id="Rectangle_18_copy_12">
+		<g>
+			<rect x="872.7" y="914.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DFDFDF" width="4" height="50"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_16_copy_33_1_" opacity="0.502" enable-background="new    ">
+	<g>
+		<g id="Rectangle_16_copy_25">
+			<g>
+				<rect x="54.7" y="570.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DDDDDD" width="1334" height="173"/>
+			</g>
+		</g>
+		<g id="Rectangle_16_copy_35">
+			<g>
+				<rect x="54.7" y="848.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DDDDDD" width="1334" height="111"/>
+			</g>
+		</g>
+		<g id="Rectangle_16_copy_34">
+			<g>
+				<rect x="54.7" y="349.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DDDDDD" width="1333" height="104"/>
+			</g>
+		</g>
+		<g id="Rectangle_16_copy_33">
+			<g>
+				<rect x="54.7" y="128.3" fill-rule="evenodd" clip-rule="evenodd" fill="#DDDDDD" width="1333" height="104"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Male__x28_72_x25__x29_">
+	<rect x="281.1" y="256" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 422.1595 278.5351)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">Male (72%)</text>
+</g>
+<g id="Female__x28_28_x25__x29_">
+	<rect x="318.1" y="295" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 420.4251 317.5352)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">Female (28%)</text>
+</g>
+<g id="Gender">
+	<rect x="80.8" y="280" fill="none" width="326.2" height="46.8"/>
+	<text transform="matrix(1 0 0 1 80.839 302.7594)" fill="#232323" font-family="'MuseoSans-700'" font-size="32">Gender</text>
+</g>
+<g id="_x3C_75__x28_82_x25__x29_">
+	<rect x="266.1" y="149" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 420.8942 171.951)"><tspan x="0" y="0" fill="#232323" font-family="'ArialMT'" font-size="32">&lt;</tspan><tspan x="18.7" y="0" fill="#232323" font-family="'MuseoSans-300'" font-size="32">75 (82%)</tspan></text>
+</g>
+<g id="_x2265_75__x28_18_x25__x29_">
+	<rect x="265.1" y="189" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 424.191 211.9512)"><tspan x="0" y="0" fill="#232323" font-family="'ArialMT'" font-size="32">≥</tspan><tspan x="17.6" y="0" fill="#232323" font-family="'MuseoSans-300'" font-size="32">75 (18%)</tspan></text>
+</g>
+<g id="Age__x28_yrs_x29_">
+	<rect x="80.8" y="169" fill="none" width="326.2" height="46.8"/>
+	<text transform="matrix(1 0 0 1 80.839 191.7594)" fill="#232323" font-family="'MuseoSans-700'" font-size="32">Age (yrs)</text>
+</g>
+<g id="All_Patients">
+	<rect x="516.8" y="77" fill="none" width="326.2" height="46.8"/>
+	<text transform="matrix(1 0 0 1 516.8389 99.7593)" fill="#232323" font-family="'MuseoSans-700'" font-size="32">All Patients</text>
+</g>
+<g id="Non-white__x28_6_x25__x29_">
+	<rect x="348.1" y="368" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 415.2376 390.5349)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">Non-white (6%)</text>
+</g>
+<g id="White__x28_94_x25__x29_">
+	<rect x="297.1" y="406" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 419.8314 428.5352)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">White (94%)</text>
+</g>
+<g id="Race">
+	<rect x="80.8" y="392" fill="none" width="326.2" height="46.8"/>
+	<text transform="matrix(1 0 0 1 80.839 414.7592)" fill="#232323" font-family="'MuseoSans-700'" font-size="32">Race</text>
+</g>
+<g id="Weight">
+	<rect x="80.8" y="504" fill="none" width="326.2" height="46.8"/>
+	<text transform="matrix(1 0 0 1 80.839 526.7593)" fill="#232323" font-family="'MuseoSans-700'" font-size="32">Weight</text>
+</g>
+<g id="_x3C_60_Kg__x28_5_x25__x29_">
+	<rect x="294.1" y="480" fill="none" width="295.7" height="34.3"/>
+	<text transform="matrix(1 0 0 1 420.5499 502.9511)"><tspan x="0" y="0" fill="#232323" font-family="'ArialMT'" font-size="32">&lt;</tspan><tspan x="18.7" y="0" fill="#232323" font-family="'MuseoSans-300'" font-size="32">60 kg (5%)</tspan></text>
+</g>
+<g id="_x2265_60_Kg__x28_95_x25__x29_">
+	<rect x="314.1" y="518" fill="none" width="295.7" height="35.3"/>
+	<text transform="matrix(1 0 0 1 422.6749 540.9514)"><tspan x="0" y="0" fill="#232323" font-family="'ArialMT'" font-size="32">≥</tspan><tspan x="17.6" y="0" fill="#232323" font-family="'MuseoSans-300'" font-size="32">60 kg (95%)</tspan></text>
+</g>
+<g id="Patient_Presentation">
+	<rect x="80.8" y="631" fill="none" width="235.7" height="96.3"/>
+	<text transform="matrix(1 0 0 1 80.839 653.7585)"><tspan x="0" y="0" fill="#232323" font-family="'MuseoSans-700'" font-size="32">Patient </tspan><tspan x="0" y="38.4" fill="#232323" font-family="'MuseoSans-700'" font-size="32">Presentation</tspan></text>
+</g>
+<g id="SA__x28_58_x25__x29_">
+	<rect x="253.1" y="587" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 424.3777 609.5353)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">SA (58%)</text>
+</g>
+<g id="ACS__x28_42_x25__x29_">
+	<rect x="276.1" y="624" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 424.0184 646.5338)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">ACS (42%)</text>
+</g>
+<g id="NSTE-ACS__x28_26_x25__x29_">
+	<rect x="444.1" y="662" fill="none" width="295.7" height="38"/>
+	<text transform="matrix(1 0 0 1 482.4568 684.5341)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">UA/NSTEMI (26%)</text>
+</g>
+<g id="STEMI__x28_15_x25__x29_">
+	<rect x="365.1" y="702" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 487.2996 724.5339)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">STEMI (15%)</text>
+</g>
+<g id="Prior_TIA_x2F_Stroke">
+	<rect x="80.8" y="784" fill="none" width="326.2" height="46.8"/>
+	<text transform="matrix(1 0 0 1 80.839 806.7588)" fill="#232323" font-family="'MuseoSans-700'" font-size="32">Prior TIA/Stroke</text>
+</g>
+<g id="No__x28_95_x25__x29_">
+	<rect x="257.1" y="771" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 421.5499 793.5354)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">No (95%)</text>
+</g>
+<g id="Yes__x28_5_x25__x29_">
+	<rect x="244.1" y="806" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 421.3155 828.5338)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">Yes (5%)</text>
+</g>
+<g id="No__x28_72_x25__x29_">
+	<rect x="258.1" y="873" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 424.6908 895.5356)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">No (72%)</text>
+</g>
+<g id="Yes__x28_28_x25__x29_">
+	<rect x="265.1" y="913" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 422.8314 935.5355)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">Yes (28%)</text>
+</g>
+<g id="Diabetes_x0D_">
+	<rect x="80.8" y="892" fill="none" width="326.2" height="46.8"/>
+	<text transform="matrix(1 0 0 1 80.839 914.7588)" fill="#232323" font-family="'MuseoSans-700'" font-size="32">Diabetes</text>
+</g>
+<g id="Subgroups">
+	<rect x="4.7" y="313.2" fill="none" width="64.7" height="269.4"/>
+	<text transform="matrix(0 -1 1 0 27.1997 582.5416)" fill="#3D1951" font-family="'MuseoSans-300'" font-size="32">Subgroups</text>
+</g>
+<g id="_x31_.48__x28_1.30_x2C__1.69_x29_">
+	<rect x="979.1" y="874" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 896.5339)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.48 (1.30, 1.69)</text>
+</g>
+<g id="_x31_.56__x28_1.26_x2C__1.92_x29_">
+	<rect x="979.1" y="913" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 935.5355)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.56 (1.26, 1.92)</text>
+</g>
+<g id="_x31_.54__x28_1.37_x2C__1.73_x29_">
+	<rect x="979.1" y="770" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 792.5341)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.54 (1.37, 1.73)</text>
+</g>
+<g id="_x30_.95__x28_0.60_x2C__1.52_x29_">
+	<rect x="979.1" y="807" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 829.5341)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">0.95 (0.60, 1.52)</text>
+</g>
+<g id="_x31_.43__x28_1.15_x2C__1.77_x29_">
+	<rect x="979.1" y="662" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 684.5341)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.43 (1.15, 1.77)</text>
+</g>
+<g id="_x31_.50__x28_1.15_x2C__1.96_x29_">
+	<rect x="979.1" y="700" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 722.5342)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.50 (1.15, 1.96)</text>
+</g>
+<g id="_x31_.54__x28_1.33_x2C__1.79_x29_">
+	<rect x="979.1" y="587" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 609.5353)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.54 (1.33, 1.79)</text>
+</g>
+<g id="_x31_.45__x28_1.23_x2C__1.72_x29_">
+	<rect x="979.1" y="625" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 647.5341)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.45 (1.23, 1.72)</text>
+</g>
+<g id="_x31_.74__x28_1.12_x2C__2.71_x29_">
+	<rect x="979.1" y="481" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 503.5354)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.74 (1.12, 2.71)</text>
+</g>
+<g id="_x31_.48__x28_1.32_x2C__1.66_x29_">
+	<rect x="979.1" y="518" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 540.5353)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.48 (1.32, 1.66)</text>
+</g>
+<g id="_x31_.27__x28_0.80_x2C__2.01_x29_">
+	<rect x="979.1" y="369" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 391.5352)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.27 (0.80, 2.01)</text>
+</g>
+<g id="_x31_.51__x28_1.35_x2C__1.70_x29_">
+	<rect x="979.1" y="406" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 428.5352)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.51 (1.35, 1.70)</text>
+</g>
+<g id="_x31_.39__x28_1.21._1.59_x29_">
+	<rect x="979.1" y="256" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 278.5351)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.39 (1.21. 1.59)</text>
+</g>
+<g id="_x31_.71__x28_1.42_x2C__2.07_x29_">
+	<rect x="979.1" y="297" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 319.5353)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.71 (1.42, 2.07)</text>
+</g>
+<g id="_x31_.58__x28_1.39_x2C__1.79_x29_">
+	<rect x="979.1" y="150" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 172.5352)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.58 (1.39, 1.79)</text>
+</g>
+<g id="_x31_.28__x28_1.02_x2C__1.61_x29_">
+	<rect x="979.1" y="189" fill="none" width="295.7" height="55.3"/>
+	<text transform="matrix(1 0 0 1 979.1436 211.5352)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1.28 (1.02, 1.61)</text>
+</g>
+<g id="OR__x28_95_x25__CI_x29_">
+	<rect x="994.8" y="5" fill="none" width="269.4" height="32.3"/>
+	<text transform="matrix(1 0 0 1 994.8386 30.5992)" fill="#3D1951" font-family="'MuseoSans-700'" font-size="36">OR (95% CI)</text>
+</g>
+<g id="_x31_.50__x28_1.34_x2C__1.68_x29_">
+	<rect x="978.8" y="78" fill="none" width="326.2" height="46.8"/>
+	<text transform="matrix(1 0 0 1 978.8389 100.7594)" fill="#232323" font-family="'MuseoSans-700'" font-size="32">1.50 (1.34, 1.68)</text>
+</g>
+<g id="_x30_.1">
+	<rect x="441.8" y="985" fill="none" width="86.8" height="49.1"/>
+	<text transform="matrix(1 0 0 1 441.8391 1007.5339)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">0.1</text>
+</g>
+<g id="KENGREAL_xAE__better">
+	<rect x="343.6" y="1058" fill="none" width="166.7" height="32.3"/>
+	<text transform="matrix(1 0 0 1 343.636 1080.7592)" fill="#6FBF4A" font-family="'MuseoSans-700'" font-size="32">KENGREAL</text>
+	<g>
+		<path fill="#6FBF4A" d="M512.7,1056.6c3.7,0,6.7,3,6.7,6.8s-3,6.8-6.7,6.8c-3.7,0-6.7-3.1-6.7-6.8S509,1056.6,512.7,1056.6z
+			 M512.7,1068.8c2.9,0,5.1-2.4,5.1-5.3c0-3-2.2-5.3-5.1-5.3c-2.8,0-5,2.4-5,5.3C507.7,1066.5,509.8,1068.8,512.7,1068.8z
+			 M510.3,1060h2.8c1.3,0,2.2,0.9,2.2,2.2c0,1.1-0.7,1.6-1.2,1.8v0c0,0,0.1,0.1,0.2,0.4l1.3,2.5H514l-1.2-2.5h-0.9v2.5h-1.6V1060z
+			 M512.8,1063.2c0.6,0,1-0.4,1-1c0-0.7-0.4-1-1-1h-0.9v2H512.8z"/>
+	</g>
+	<rect x="700.6" y="1058" fill="none" width="100.6" height="32.3"/>
+	<text transform="matrix(1 0 0 1 700.6355 1080.7592)" fill="#6FBF4A" font-family="'MuseoSans-700'" font-size="32">better</text>
+	<rect x="529.7" y="1058" fill="none" width="170.9" height="42.3"/>
+	<text transform="matrix(1 0 0 1 529.6941 1080.7592)" fill="#6FBF4A" font-family="'MuseoSans-700'" font-size="32">(cangrelor)</text>
+</g>
+<g id="Clopidogrel_better">
+	<rect x="824.6" y="1058" fill="none" width="468.4" height="32.3"/>
+	<text transform="matrix(1 0 0 1 824.6353 1080.7592)" fill="#404040" font-family="'MuseoSans-700'" font-size="32">Clopidogrel better</text>
+</g>
+<g id="_x30_.5">
+	<rect x="674.8" y="985" fill="none" width="86.8" height="49.1"/>
+	<text transform="matrix(1 0 0 1 674.8387 1007.5339)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">0.5</text>
+</g>
+<g id="_x31_">
+	<rect x="796.8" y="985" fill="none" width="86.8" height="49.1"/>
+	<text transform="matrix(1 0 0 1 796.8379 1007.5339)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">1</text>
+</g>
+<g id="_x32_">
+	<rect x="906.8" y="985" fill="none" width="86.8" height="49.1"/>
+	<text transform="matrix(1 0 0 1 906.8384 1007.5339)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">2</text>
+</g>
+<g id="_x31_0">
+	<rect x="1144.8" y="985" fill="none" width="86.8" height="49.1"/>
+	<text transform="matrix(1 0 0 1 1144.8381 1007.5339)" fill="#232323" font-family="'MuseoSans-300'" font-size="32">10</text>
+</g>
+<g id="Rectangle_17_1_" enable-background="new    ">
+	<g id="Rectangle_17">
+		<g>
+			<rect x="800.7" y="58.3" fill-rule="evenodd" clip-rule="evenodd" fill="#C8C8C8" width="7" height="920"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_2_1_" enable-background="new    ">
+	<g id="Rectangle_17_copy_2">
+		<g>
+			<rect x="452.7" y="964.8" fill-rule="evenodd" clip-rule="evenodd" fill="#C8C8C8" width="7" height="14.5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_3_1_" enable-background="new    ">
+	<g id="Rectangle_17_copy_3">
+		<g>
+			<rect x="1157.7" y="964.8" fill-rule="evenodd" clip-rule="evenodd" fill="#C8C8C8" width="7" height="14.5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_1_" enable-background="new    ">
+	<g id="Rectangle_17_copy">
+		<g>
+			<rect x="452.7" y="959.3" fill-rule="evenodd" clip-rule="evenodd" fill="#C8C8C8" width="711" height="7"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_29_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4">
+		<g>
+			<rect x="844.7" y="929.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="61" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_33_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5">
+		<g>
+			<rect x="841.7" y="923.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_33_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6">
+		<g>
+			<rect x="904.7" y="923.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_33_" enable-background="new    ">
+	<g id="Ellipse_2">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="876.7" cy="930.3" r="8"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_28_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_1_">
+		<g>
+			<rect x="850.7" y="890.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="38" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_32_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_1_">
+		<g>
+			<rect x="846.7" y="884.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_32_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_1_">
+		<g>
+			<rect x="888.7" y="884.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_32_" enable-background="new    ">
+	<g id="Ellipse_2_1_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="866.2" cy="890.8" r="11.5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_27_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_2_">
+		<g>
+			<rect x="732.7" y="816.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="136" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_31_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_2_">
+		<g>
+			<rect x="728.7" y="810.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_31_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_2_">
+		<g>
+			<rect x="868.7" y="810.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_31_" enable-background="new    ">
+	<g id="Ellipse_2_2_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="800.2" cy="818.8" r="3.5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_30_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_3_">
+		<g>
+			<rect x="854.7" y="777.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_30_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_3_">
+		<g>
+			<rect x="892.7" y="777.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_30_" enable-background="new    ">
+	<g id="Ellipse_2_3_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="875.2" cy="783.8" r="16.5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_26_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_3_">
+		<g>
+			<rect x="830.7" y="709.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="80" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_29_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_4_">
+		<g>
+			<rect x="826.7" y="703.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_29_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_4_">
+		<g>
+			<rect x="910.7" y="703.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_29_" enable-background="new    ">
+	<g id="Ellipse_2_4_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="867.7" cy="710.3" r="5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_25_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_4_">
+		<g>
+			<rect x="830.7" y="673.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="62" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_28_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_5_">
+		<g>
+			<rect x="826.7" y="667.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_28_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_5_">
+		<g>
+			<rect x="892.7" y="667.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_28_" enable-background="new    ">
+	<g id="Ellipse_2_5_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="862.2" cy="674.8" r="6.5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_24_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_5_">
+		<g>
+			<rect x="841.7" y="637.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="48" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_27_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_6_">
+		<g>
+			<rect x="837.7" y="631.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_27_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_6_">
+		<g>
+			<rect x="889.7" y="631.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_27_" enable-background="new    ">
+	<g id="Ellipse_2_6_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="864.7" cy="638.3" r="9"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_23_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_6_">
+		<g>
+			<rect x="853.7" y="598.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="42" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_26_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_7_">
+		<g>
+			<rect x="849.7" y="592.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_26_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_7_">
+		<g>
+			<rect x="895.7" y="592.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_26_" enable-background="new    ">
+	<g id="Ellipse_2_7_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="874.2" cy="599.8" r="10.5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_25_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_8_">
+		<g>
+			<rect x="849.7" y="519.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_25_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_8_">
+		<g>
+			<rect x="882.7" y="519.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_25_" enable-background="new    ">
+	<g id="Ellipse_2_8_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="870.2" cy="529.8" r="16.5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_22_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_7_">
+		<g>
+			<rect x="827.7" y="491.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="131" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_24_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_9_">
+		<g>
+			<rect x="824.7" y="485.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_24_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_9_">
+		<g>
+			<rect x="957.7" y="485.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_24_" enable-background="new    ">
+	<g id="Ellipse_2_9_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="891.7" cy="493.3" r="3"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_21_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_8_">
+		<g>
+			<rect x="856.7" y="416.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="33" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_23_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_10_">
+		<g>
+			<rect x="852.7" y="410.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_23_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_10_">
+		<g>
+			<rect x="889.7" y="410.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_23_" enable-background="new    ">
+	<g id="Ellipse_2_10_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="871.2" cy="417.8" r="14.5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_20_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_9_">
+		<g>
+			<rect x="775.7" y="382.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="138" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_22_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_11_">
+		<g>
+			<rect x="771.7" y="376.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_22_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_11_">
+		<g>
+			<rect x="913.7" y="376.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_22_" enable-background="new    ">
+	<g id="Ellipse_2_11_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="842.2" cy="382.8" r="4.5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_19_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_10_">
+		<g>
+			<rect x="863.7" y="309.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="55" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_21_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_12_">
+		<g>
+			<rect x="859.7" y="303.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_21_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_12_">
+		<g>
+			<rect x="918.7" y="303.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_21_" enable-background="new    ">
+	<g id="Ellipse_2_12_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="888.7" cy="310.3" r="8"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_18_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_11_">
+		<g>
+			<rect x="837.7" y="270.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="42" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_20_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_13_">
+		<g>
+			<rect x="834.7" y="264.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_20_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_13_">
+		<g>
+			<rect x="878.7" y="264.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_20_" enable-background="new    ">
+	<g id="Ellipse_2_13_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="857.2" cy="271.8" r="11.5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_17_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_12_">
+		<g>
+			<rect x="810.7" y="201.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="70" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_19_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_14_">
+		<g>
+			<rect x="807.7" y="195.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_19_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_14_">
+		<g>
+			<rect x="881.7" y="195.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_19_" enable-background="new    ">
+	<g id="Ellipse_2_14_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="847.2" cy="202.8" r="6.5"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_16_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_13_">
+		<g>
+			<rect x="860.7" y="163.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="36" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_18_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_15_">
+		<g>
+			<rect x="857.7" y="154.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_18_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_15_">
+		<g>
+			<rect x="895.7" y="154.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_18_" enable-background="new    ">
+	<g id="Ellipse_2_15_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="876.7" cy="164.3" r="14"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_4_15_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_4_14_">
+		<g>
+			<rect x="852.7" y="89.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="36" height="4"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_5_17_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_5_16_">
+		<g>
+			<rect x="848.7" y="83.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_17_copy_6_17_" opacity="0.4" enable-background="new    ">
+	<g id="Rectangle_17_copy_6_16_">
+		<g>
+			<rect x="887.7" y="83.3" fill-rule="evenodd" clip-rule="evenodd" fill="#8348AD" width="4" height="19"/>
+		</g>
+	</g>
+</g>
+<g id="Ellipse_2_17_" enable-background="new    ">
+	<g id="Ellipse_2_16_">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#3D1951" cx="870.7" cy="91.3" r="18"/>
+		</g>
+	</g>
+</g>
+</svg>

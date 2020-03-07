@@ -1,0 +1,28 @@
+figure.hero {
+	margin-top: 6rem;
+	margin-left: 9.125rem;
+  max-width: 75.75%;
+  padding: 1rem 1.5rem 0.75rem 2.75rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #3d1951;
+  background-color: #ffce02;
+  box-shadow: 0 0.5rem 0 #fddd3f inset, 0 0 1rem rgba(0,0,0,0.2);
+}
+  figure.hero > * {
+    color: inherit;
+  }
+
+	.hero img {
+		width: 11.8125rem;
+	}
+
+  .hero figcaption * {
+    font-weight: 500;
+  }
+
+	.hero > div.absolute {
+		top: 12rem;
+		left: 1.625rem;
+	}

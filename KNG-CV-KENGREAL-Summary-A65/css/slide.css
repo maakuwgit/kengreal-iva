@@ -1,0 +1,122 @@
+/*Dev Note: cleanup is DESPERATELY needed here. Most of this should be it's own stylesheet and be included on flip pages*/
+h1 + h2 {
+	margin-bottom: 1.75rem;
+}
+
+.row main > .row {
+	margin-left: -0.46875rem;
+}
+
+.panel {
+	width: 100%;
+}
+
+.panel,
+[data-flipable] {
+	height: 25rem;
+}
+	[data-flipable].column,
+	[data-flipable].columns, {
+		padding-left: 0.5625rem;
+		padding-right: 0.5625rem;
+	}
+	[data-flipable]:first-of-type dt {
+		margin-top: 9.5rem;
+  }
+	[data-flipable]:nth-of-type(2) dt {
+		margin-top: 9.3125rem;
+	}
+		[data-flipable]:nth-of-type(2) dt img {
+	    width: 8.8125rem;
+	    height: auto;
+	  }
+	[data-flipable]:nth-of-type(3) dt {
+		margin-top: 9.5rem;
+	}
+
+	[data-flipable].back:before {
+		content: '';
+		position: absolute;
+		z-index: 0;
+		height: 100%;
+		width: 100%;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: contain;
+	}
+[data-hide-on-flip], 
+[data-show-on-flip] {
+	display: table;
+  left: 0.5625rem;
+  width: 14rem;
+}
+  [data-show-on-flip] .panel dd *,
+  [data-show-on-flip] .panel dt * {
+  	transition: none;
+  	-webkit-transition: none;
+  	opacity: 1;
+  }
+
+	.panel dd {
+		position: relative;
+		z-index: 1;
+	}
+		.panel dd > p:first-child {
+			padding-top: 2.25rem;
+			max-width: 91%;
+		}
+
+		.panel dd > ul:first-child {
+			padding-top: 1.375rem;
+		}
+
+		.panel dd > ul, 
+		.panel dd > :first-child {
+			padding-left: 0.625rem;
+	    max-width: 85%;
+	    margin-left: auto;
+	    margin-right: auto;
+		}
+			.panel dd > p + ul {
+				padding-left: 1rem;
+			}
+
+		.panel dd li,
+		.panel dd p {
+	    text-align: left;
+	  }
+
+		.panel dd ul {
+	    list-style: none;
+	  }
+
+		.panel dd li {
+			margin-bottom: 0.75rem;
+		}
+			.panel dd li:before {
+				content: '•';
+				margin-left: -0.875rem;
+				padding-right: 0.5rem;
+			}
+
+	.panel dt {
+		font-size: 1.3125rem;
+		font-weight: bold;
+		text-align: center;
+		text-transform: uppercase;
+		padding-left: 0.9375rem;
+		padding-right: 0.9375rem;
+	}
+
+.badge {
+  position: absolute;
+  top: -1.5rem;
+  width: 2.96875rem;
+  height: 2.96875rem;
+  font-size: 2rem;
+  padding-left: 0 !important;
+  padding-top: 0.5rem;
+  left: 50%;
+  margin-left: -1.484375rem !important;
+  margin-top: -0.625rem;
+}

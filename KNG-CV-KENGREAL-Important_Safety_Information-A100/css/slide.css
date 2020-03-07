@@ -1,0 +1,10 @@
+.isi-list li {
+	display: list-item;
+}
+	.isi-list li p {
+		margin-bottom: 1rem;
+	}
+
+.isi-link {
+	display: none;
+}

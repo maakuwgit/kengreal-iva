@@ -1,0 +1,67 @@
+main h1 {
+  margin-bottom: 1.625rem;
+}
+
+table td:first-child {
+  width: 26%;
+}
+
+table td:nth-of-type(2) {
+  width: 18%;
+}
+
+table th:nth-of-type(n+3), 
+table tr td:nth-of-type(n+3) {
+	display: none;
+}
+
+table td:first-child{
+	font-weight: bold;
+}
+	table td small {
+		font-size: 0.675rem;
+    display: block;
+	}
+		table td small b {
+			font-weight: 500;
+	    font-size: 0.75rem;
+	  }
+
+	tfoot td {
+		padding-top: 0;
+		padding-bottom: 0;
+		border-top-width: 0;
+	}
+
+	table tbody tr:last-child td {
+		padding-bottom: 0;
+	}
+
+table tr th:nth-of-type(n+2),
+table tr td:nth-of-type(n+2) {
+	text-align: center;
+}
+
+
+td {
+  padding: 1rem 0.75rem 0.875rem 0.75rem;
+}
+
+th {
+	padding-top: 0.6875rem;
+}
+
+caption {
+  margin-top: 1rem;
+  margin-left: 0.5rem;
+}
+
+main [data-zoom] table + nav.absolute {
+	top: initial;
+  bottom: -3rem;
+  right: 0;
+}
+
+#zooms.zoomed {
+  padding-top: 8.625rem;
+}

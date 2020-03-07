@@ -1,0 +1,246 @@
+{
+	"presentation" : "KNG-CV-KENGREAL-IVA",
+	"slides" : [
+		{
+			"keymessage": "KNG-CV-KENGREAL-Home-A05",
+			"arch": "A05",
+			"title": "Home",
+			"use_title": "Home"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-P2Y12_Inhibitor-A10",
+			"arch": "A10",
+			"title": "Home",
+			"use_title": "PK/PD",
+			"is_key": true,
+			"children": ["A10","A15","A20"], 
+			"is_alt": true,
+			"icon": "arrows"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-PK_PD-A15",
+			"arch": "A15",
+			"title": "PK/PD"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Developed_for_PCI-A20",
+			"arch": "A20",
+			"title": "Developed for PCI"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-22_percent_A25",
+			"arch": "A25",
+			"title": "Efficacy, 22%",
+			"use_title": "Efficacy",
+			"is_key": true,
+			"children": ["A25","A30","A35"], 
+			"is_alt": true,
+			"icon": "bar-chart"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-38_percent-A30",
+			"arch": "A30",
+			"title": "Efficacy, 38%"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Time_to_Events-A35",
+			"arch": "A35",
+			"title": "Time to Events"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Bleeding-A40",
+			"arch": "A40",
+			"title": "Clinical Safety",
+			"is_key": true,
+			"is_alt": true,
+			"icon": "list-ul"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Dosing_Overview-A45",
+			"arch": "A45",
+			"title": "Dosing",
+			"is_key": true,
+			"children": ["A45","A50","A55","A60"], 
+			"is_alt": true,
+			"icon": "bottle"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Prep-A50",
+			"arch": "A50",
+			"title": "Prep"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Dosing_and_Administration-A55",
+			"arch": "A55",
+			"title": "Dosing & Administration"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Transitioning-A60",
+			"arch": "A60",
+			"title": "Transitioning"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Summary-A65",
+			"arch": "A65",
+			"title": "Summary",
+			"is_key": true,
+			"is_alt": true,
+			"icon": "clone"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Profiles-A70",
+			"arch": "A70",
+			"title": "Profiles",
+			"is_key": true,
+			"children": ["A70","A75","A80"], 
+			"is_alt": true,
+			"icon": "user"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Kenneth-A75",
+			"arch": "A75",
+			"title": "Kenneth"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Rafael-A80",
+			"arch": "A80",
+			"title": "Rafael"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Risks-A85",
+			"arch": "A85",
+			"title": "PCI Risks",
+			"use_title": "PCI",
+			"is_key": true,
+			"children": ["A85","A90"], 
+			"icon": "mesh"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Clinical-Considerations_and_Guidelines-A90",
+			"arch": "A90",
+			"title": "Clinical Considerations & Guidelines"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Videos-A95",
+			"arch": "A95",
+			"title": "Video",
+			"is_key": true,
+			"icon": "play"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-Important_Safety_Information-A100",
+			"arch": "A100",
+			"title": "Important Safety Information",
+			"is_key": true,
+			"children": ["A100","A105"], 
+			"icon": "book"
+		},
+		{
+			"keymessage": "KNG-CV-KENGREAL-References-A105",
+			"arch": "A105",
+			"title": "References"
+		}
+	],
+	"hiddenpresentations" : [
+		{
+			"presentation" : "KNG-CV-KENGREAL-NURS_INSVC_Track",
+			"slides" : [
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B05_Home",
+					"arch": "B05",
+					"title": "Home"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B10_Pharmacologic_Profile",
+					"arch": "B10",
+					"title": "Pharmacologic Profile"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B15_PK_PD_Characteristics",
+					"arch": "B15",
+					"title": "PK/PD Characteristics"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B20_Dosing",
+					"arch": "B20",
+					"title": "Dosing"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B25_Preparation",
+					"arch": "B25",
+					"title": "Preparation"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B30_Administration",
+					"arch": "B30",
+					"title": "Administration"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B35_Compatibility",
+					"arch": "B35",
+					"title": "Compatibility"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B40_Incompatibility",
+					"arch": "B40",
+					"title": "Incompatibility"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B45_How_to_Transition_from_KENGREAL",
+					"arch": "B45",
+					"title": "How to Transition from KENGREAL&reg;"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B50_Drug-Drug_Interactions",
+					"arch": "B50",
+					"title": "Drug-Drug Interactions"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B55_Overdose",
+					"arch": "B55",
+					"title": "Overdose"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B60_Stability_and_Storage",
+					"arch": "B60",
+					"title": "Stability and Storage"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B65_Adverse_Events",
+					"arch": "B65",
+					"title": "Adverse Events"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B70_Specific_Population",
+					"arch": "B70",
+					"title": "Specific Population"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B75_FAQ_Alternate_Mixing_Systems",
+					"arch": "B75",
+					"title": "FAQ: Alternate Mixing Systems"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B80_FAQ_Adjunctive_Therapy_in_Champion_Phoenix",
+					"arch": "B80",
+					"title": "FAQ: Adjunctive Therapy in Champion Phoenix"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B85_Contact_information",
+					"arch": "B85",
+					"title": "Contact information"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B90_Full_Important_Safety_Information",
+					"arch": "B90",
+					"title": "Full Important Safety Information"
+				},
+				{
+					"keymessage": "KNG-CV-KENGREAL-NURS_INSVC_Track-B95_References",
+					"arch": "B95",
+					"title": "References"
+				}
+			]
+		}
+	]
+}

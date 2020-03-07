@@ -1,0 +1,128 @@
+	main [data-zoom] nav.absolute {
+    top: 21rem;
+    right: 1.25rem;
+  }
+
+main figure,
+main p {
+	margin-left:0;
+}
+main figure {
+	margin-top: -0.5rem;
+}
+
+main figcaption {
+	margin-bottom: auto;
+}
+	main figcaption li {
+		margin-top: auto;
+	}
+	main figcaption ul {
+		padding-left: 2.25rem;
+		margin-bottom: 0.25rem;
+	}
+
+main figure + article h2 {
+  letter-spacing: -0.3px;
+}
+	main figure + article h2:nth-of-type(1) {
+		margin-top: 0.5rem;
+  }
+	main figure + article h2:nth-of-type(n+2) {
+		margin-bottom: auto;
+	}
+
+main > nav.absolute {
+	right: -13.75rem;
+  bottom: -3.25rem;
+}
+	main > nav button {
+	  min-width: 11rem;
+	}
+
+#zooms.zoomed {
+	padding-top: 8rem;
+}
+
+	#wrapper-onset,
+	#wrapper-offset {
+		left: 5rem;
+		pointer-events: none;
+	}
+	#wrapper-offset {
+		top: 6.625rem;
+	}
+
+	#line-offset {
+		background-image: url(../img/line-offset.png);
+	}
+
+	#wrapper-onset {
+    top: 5.625rem;
+	}
+
+	#line-onset {
+		background-image: url(../img/line-onset.png);
+	}
+	#twoMinOnset {
+		transform: translateX(-1.25rem);
+		-webkit-transform: translateX(-1.25rem);
+		transition:all 300ms 900ms linear;
+		-webkit-transition:all 300ms 900ms linear;
+	}
+	#sixtySecOffset {
+		transform: translateX(1.25rem);
+		-webkit-transform: translateX(1.25rem);
+		transition:all 300ms 1.5s linear;
+		-webkit-transition:all 300ms 1.5s linear;
+	}
+
+	body.animate.seen_study #twoMinOnset, 
+	body.animate.seen_study #sixtySecOffset {
+		transform: translateX(0);
+		-webkit-transform: translateX(0);
+	}
+
+	#wrapper-offset,
+	#wrapper-onset {
+		width:0;
+		height:0;
+		transition: width 1s 750ms linear;
+		-webkit-transition: width 1s 750ms linear;
+	}
+		#line-onset,
+		#line-offset {
+			left:0;
+			top:0;
+		}
+		#line-offset, 
+		#line-onset, 
+		body.animate.seen_study #wrapper-offset, 
+		body.animate.seen_study #wrapper-onset{
+	    width: 33.25rem;
+    	height: 13.875rem;
+		}
+
+	[data-zoom]:not(.zoomed) #line-platelet,
+	[data-zoom]:not(.zoomed) #line-kengreal, 
+	[data-zoom]:not(.zoomed) #points-platelet,
+	[data-zoom]:not(.zoomed) #points-kengreal, 
+	[data-zoom].zoomed #wrapper-onset,
+	[data-zoom].zoomed #wrapper-offset,
+	#chart-title {
+		display: none;
+	}
+		[data-zoom].zoomed #chart-title {
+			display: block;
+		}
+
+	#line-onset, 
+	#wrapper-onset,
+	#line-offset,  
+	#wrapper-offset {
+		background-size: 100% auto;
+		background-position: top left;
+		background-repeat: no-repeat;
+		position:absolute;
+		overflow:hidden;
+	}

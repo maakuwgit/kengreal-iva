@@ -1,0 +1,102 @@
+@font-face {
+  font-family: 'KengrealIcons';
+  src:
+    url('../fonts/KengrealIcons.ttf?95lgw8') format('truetype'),
+    url('../fonts/KengrealIcons.woff?95lgw8') format('woff'),
+    url('../fonts/KengrealIcons.svg?95lgw8#KengrealIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ke_"], [class*=" ke_"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'KengrealIcons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.ke_arrows-h:before {
+  content: "\e919";
+}
+.ke_winds:before {
+  content: "\e917";
+}
+.ke_chevrons:before {
+  content: "\e918";
+}
+.ke_rotate:before {
+  content: "\e915";
+}
+.ke_transition:before {
+  content: "\e916";
+}
+.ke_bottle-o:before {
+  content: "\e90b";
+}
+.ke_chevron-down:before {
+  content: "\e90c";
+}
+.ke_chevron-left:before {
+  content: "\e90d";
+}
+.ke_chevron-right:before {
+  content: "\e90e";
+}
+.ke_chevron-up:before {
+  content: "\e90f";
+}
+.ke_clipboard:before {
+  content: "\e910";
+}
+.ke_heart:before {
+  content: "\e911";
+}
+.ke_stethoscope:before {
+  content: "\e912";
+}
+.ke_tiles:before {
+  content: "\e913";
+}
+.ke_zoom-in:before {
+  content: "\e914";
+}
+.ke_users:before {
+  content: "\e90a";
+}
+.ke_nurse:before {
+  content: "\e909";
+}
+.ke_arrows:before {
+  content: "\e906";
+}
+.ke_book:before {
+  content: "\e907";
+}
+.ke_play:before {
+  content: "\e908";
+}
+.ke_bar-chart:before {
+  content: "\e900";
+}
+.ke_bottle:before {
+  content: "\e901";
+}
+.ke_clone:before {
+  content: "\e902";
+}
+.ke_list-ul:before {
+  content: "\e903";
+}
+.ke_mesh:before {
+  content: "\e904";
+}
+.ke_user:before {
+  content: "\e905";
+}

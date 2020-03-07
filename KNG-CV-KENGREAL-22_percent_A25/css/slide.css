@@ -1,0 +1,34 @@
+main h1 {
+	white-space: nowrap;
+}
+
+main figure,
+main p {
+	margin-left:0;
+}
+
+main figure {
+	max-width: 98.75%;
+	margin-top: 1.5rem;
+}
+
+main p {
+	margin-top: -2rem;
+  font-size: 0.9375rem;
+}
+
+[data-chart-nav] [class*="A25"] {
+	display: inline-block;
+}
+
+[data-zoom] + nav {
+	margin-top: 0.25rem;
+}
+
+[data-zoom]:not(.zoomed) #title-kengreal-generic {
+	display: none;
+}
+	
+	#zooms.zoomed {
+    padding-top: 7rem;
+  }

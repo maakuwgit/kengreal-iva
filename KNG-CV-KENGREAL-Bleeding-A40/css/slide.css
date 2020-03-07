@@ -1,0 +1,96 @@
+h1 + div.row ul.columns {
+	margin-bottom: auto;
+	padding-left: 1.3125rem;
+}
+	h1 + div.row ul:nth-of-type(1).columns {
+    padding-left: 2rem;
+  }
+
+[data-zoom] table td:first-child {
+  width: 40.25%;
+}
+
+[data-zoom] table td:nth-of-type(2) {
+  width: 32%;
+}
+
+[data-zoom] table tr:nth-child(odd){
+	font-weight: bold;
+}
+	[data-zoom] tbody tr:last-of-type ul {
+		margin-bottom: auto;
+	}
+
+	[data-zoom] tbody tr:nth-child(odd) td {
+	  padding-top: 1rem;
+	  padding-bottom: 0.8125rem;
+	}
+
+	[data-zoom] tfoot td {
+		padding-top: 0;
+		padding-bottom: 0;
+		border-top-width: 0;
+	}
+
+	[data-zoom] table tr:nth-child(odd) td:first-of-type {
+		padding-left: 1rem;
+	}
+
+	[data-zoom] table tr:nth-child(even) td:first-of-type ul.no-bullet {
+		padding-left: 2rem;
+	}
+
+	[data-zoom] table ul.no-bullet {
+    margin-top: 0.25rem;
+    margin-bottom: 0.5rem;
+  }
+
+	[data-zoom] table ul li {
+		padding-top: 0.4375rem;
+	}
+
+[data-zoom] table tr th:nth-of-type(n+2),
+[data-zoom] table tr td:nth-of-type(n+2) {
+	text-align: center;
+}
+
+.row caption.row {
+  margin-top: 3.5rem;
+}
+	caption .columns {
+		padding-right: 0;
+	}
+	caption .end {
+		padding-left: 0.75rem;
+	}
+
+[data-chart-nav] [class*="A40"] {
+	display: inline-block;
+}
+
+[data-zoom] caption nav.absolute {
+    right: -15.25rem;
+    bottom: -2.3125rem;
+    top: initial;
+}
+
+caption nav {
+  margin-top: 0.75rem;
+}
+
+#zooms.zoomed {
+	padding-top: 6.5rem;
+}
+
+[data-zoom] table + nav.absolute {
+ 	top: 16.5rem;
+  right: 0;
+}
+
+[data-zoom] + nav {
+  margin-top: auto;
+  top: 32rem;
+}
+	[data-zoom] + nav button {
+		max-width: none;
+	}

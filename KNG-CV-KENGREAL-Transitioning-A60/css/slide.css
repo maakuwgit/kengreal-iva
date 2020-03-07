@@ -1,0 +1,75 @@
+/*Dev Note: cleanup is DESPERATELY needed here. Most of this should be it's own stylesheet and be included on flip pages*/
+h1 + h2 {
+	margin-bottom: 1.75rem;
+}
+	h1 + h2 sub {
+    vertical-align: -0.125rem;
+    font-size: 65%;
+    margin-left: -2px;
+  }
+
+.row main > .row {
+	margin-left: -0.46875rem;
+}
+
+.panel {
+	width: 100%;
+}
+
+.panel,
+[data-flipable] {
+	height: 19.75rem;
+}
+	[data-flipable].column,
+	[data-flipable].columns, {
+		padding-left: 0.5625rem;
+		padding-right: 0.5625rem;
+	}
+
+	[data-flipable].back:before {
+		content: '';
+		position: absolute;
+		z-index: 0;
+		height: 100%;
+		width: 100%;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: contain;
+	}
+[data-hide-on-flip], 
+[data-show-on-flip] {
+	display: table;
+  left: 0.5625rem;
+  width: 14rem;
+}
+  [data-show-on-flip] .panel dd *,
+  [data-show-on-flip] .panel dt * {
+  	transition: none;
+  	-webkit-transition: none;
+  	opacity: 1;
+  }
+	.panel dd {
+		position: relative;
+		z-index: 1;
+	}
+		.panel dd p {
+	    text-align: left;
+			max-width: 91%;
+		}
+			.panel dd p:first-child {
+				padding-top: 2.25rem;
+			}
+
+	.panel dt {
+		font-size: 1.3125rem;
+		font-weight: bold;
+		text-align: center;
+		text-transform: uppercase;
+		margin-top: 6rem;
+		padding-left: 0.9375rem;
+		padding-right: 0.9375rem;
+	}
+
+.disclaimers {
+  bottom: 7.5rem;
+}
